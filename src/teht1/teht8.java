@@ -6,4 +6,8 @@ public class teht8 {
 
 
     }
+    public static Boolean peli (String valinta){
+        String Tietokoneenvalinta;
+        return true;
+}
 }
