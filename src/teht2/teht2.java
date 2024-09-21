@@ -2,7 +2,7 @@ package teht2;
 //notes
 //Koodailin liian lähellä aurinkoa. Jos intellij värittää että koodistä pitää ottaa psvm pois. älä luota siihen.
 //Menee kaikki ihan levälleen jos teet sillai.
-public class teht1 {
+public class teht2 {
     public static void main(String[] args) {
         testiohjelma();
 
