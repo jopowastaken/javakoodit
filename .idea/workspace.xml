@@ -36,7 +36,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Teht2.executor": "Run",
+    "Application.Teht3.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.dinosaur.executor": "Run",
     "Application.teht1.executor": "Run",
     "Application.teht2.executor": "Run",
     "Application.teht2.teht1.executor": "Run",
@@ -54,6 +59,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jussi/Desktop/javakoodit/src/dinosarus",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,41 +80,20 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="dinosaur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dinosarus.App2" />
       <module name="Java OO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dinosarus" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teht1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teht1.teht1" />
-      <module name="Java OO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="teht1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.teht1" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.teht1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-22-openjdk-22-f644763e9732-8c5c9ae5" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -131,6 +116,7 @@
       <workItem from="1726756129337" duration="5203000" />
       <workItem from="1726914944320" duration="8527000" />
       <workItem from="1726997042795" duration="2570000" />
+      <workItem from="1728498376733" duration="8004000" />
     </task>
     <servers />
   </component>
