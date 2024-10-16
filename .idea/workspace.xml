@@ -34,45 +34,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Teht2.executor": "Run",
-    "Application.Teht3.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "Application.dinosaur.executor": "Run",
-    "Application.teht1.executor": "Run",
-    "Application.teht2.executor": "Run",
-    "Application.teht2.teht1.executor": "Run",
-    "Application.teht3.executor": "Run",
-    "Application.teht3.teht1.executor": "Run",
-    "Application.teht4.executor": "Run",
-    "Application.teht5.executor": "Run",
-    "Application.teht6.executor": "Run",
-    "Application.teht7.executor": "Run",
-    "Application.teht8.executor": "Run",
-    "Application.teht9.executor": "Run",
-    "Application.testi.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Jussi/Desktop/javakoodit/src/dinosarus",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Jussi/IdeaProjects/Java OO/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propDebugger",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teht2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teht3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dinosaur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht2.teht1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht3.teht1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jussi/Desktop/javakoodit/src/dinosarus&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Jussi/IdeaProjects/Java OO/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Kaluja" />
@@ -92,8 +92,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="jdk-22-openjdk-22-f644763e9732-8c5c9ae5" />
       </set>
     </attachedChunks>
   </component>
@@ -117,6 +116,7 @@
       <workItem from="1726914944320" duration="8527000" />
       <workItem from="1726997042795" duration="2570000" />
       <workItem from="1728498376733" duration="8004000" />
+      <workItem from="1729109194082" duration="2506000" />
     </task>
     <servers />
   </component>
