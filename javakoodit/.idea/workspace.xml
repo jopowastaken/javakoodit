@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="024c6d10-433b-45e7-89de-24ceb46be4fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lpA2qsaPOYMdZvTHAgU814Nb6A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teht2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teht3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dinosaur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht2.teht1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht3.teht1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teht9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jussi/Desktop/javakoodit/src/dinosarus&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Jussi/IdeaProjects/Java OO/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Kaluja" />
+      <recent name="teht1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dinosaur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dinosarus.App2" />
+      <module name="Java OO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dinosarus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-f644763e9732-8c5c9ae5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="024c6d10-433b-45e7-89de-24ceb46be4fd" name="Changes" comment="" />
+      <created>1725866443047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725866443047</updated>
+      <workItem from="1725866444070" duration="6579000" />
+      <workItem from="1725873746234" duration="447000" />
+      <workItem from="1725874927728" duration="9342000" />
+      <workItem from="1725916206403" duration="632000" />
+      <workItem from="1725946009850" duration="1942000" />
+      <workItem from="1725954512738" duration="4293000" />
+      <workItem from="1726047656777" duration="3202000" />
+      <workItem from="1726658995507" duration="2979000" />
+      <workItem from="1726756129337" duration="5203000" />
+      <workItem from="1726914944320" duration="8527000" />
+      <workItem from="1726997042795" duration="2570000" />
+      <workItem from="1728498376733" duration="8004000" />
+      <workItem from="1729109194082" duration="2506000" />
+      <workItem from="1729580529753" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
